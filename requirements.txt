@@ -1,5 +1,3 @@
-Python==3.8.10
-streamlit==1.40.1
 matplotlib
 seaborn
 wordcloud
@@ -7,3 +5,4 @@ nltk
 collections
 string
 re
+streamlit==1.38.0
